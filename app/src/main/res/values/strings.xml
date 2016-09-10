@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratorio 04</string>
+    <string name="bem_vindo_ao_android">Bem Vindo ao Android</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="acessar">Acessar</string>
+    <string name="botao_senha">Senha</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
